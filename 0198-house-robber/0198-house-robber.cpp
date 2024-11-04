@@ -25,23 +25,19 @@ public:
         int rob(vector<int> &nums)
         {
             int n = nums.size();
-            vector<int> dp(n,-1);
-            dp[0] = nums[0];
+            int prev2;
+            int prev = nums[0];
 
             for(int i=1;i<n;i++)
             {
                 int peak = nums[i];
-                if(i > 1) peak += dp[i-2];
-                int non_peak = dp[i-1];
+                if(i > 1) peak += prev2;
+                int non_peak = prev;
 
-                dp[i] = max(peak, non_peak);
+                int curi = max(peak, non_peak);
+                prev2 = prev;
+                prev = curi;
             }       
-            return dp[n-1];
+            return prev;
         }
-
-//         int rob(vector<int> nums)
-//         {
-//             int n = nums.size();
-            
-//         }
 };
