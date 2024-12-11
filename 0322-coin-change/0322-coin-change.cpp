@@ -17,8 +17,31 @@ public:
     }
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
-        vector<vector<int>> dp(n, vector<int> (amount+1,-1));
-        int ans = func(n-1, coins, amount, dp);
+        // vector<vector<int>> dp(n, vector<int> (amount+1,-1));
+        // int ans = func(n-1, coins, amount, dp);
+        vector<int> prev(amount+1, 0);
+        
+        for(int t=0;t<=amount;t++)
+        {
+            if(t%coins[0] == 0 ) prev[t] = t/coins[0];
+            else prev[t] = 1e9;
+        }
+        
+        for(int ind = 1;ind<n;ind ++)
+        {
+            // vector<int> curr(amount+1,0);
+            for(int amo=0;amo<=amount;amo++)
+            {
+                int nottake = prev[amo];
+                int take = INT_MAX;
+                if(coins[ind]<=amo) take = 1+prev[amo-coins[ind]];
+                
+                prev[amo] = min(take , nottake);
+            }
+            // prev = curr;
+        }
+        
+        int ans = prev[amount];
         if(ans >= 1e9) return -1;
         else return ans;
     }
