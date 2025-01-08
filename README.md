@@ -5,6 +5,7 @@ this is readme. here i will make
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TheVinaySagar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1524-string-matching-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TheVinaySagar/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -70,4 +71,8 @@ this is readme. here i will make
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/TheVinaySagar/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TheVinaySagar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
