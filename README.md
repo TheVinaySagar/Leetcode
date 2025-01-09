@@ -39,12 +39,14 @@ this is readme. here i will make
 | ------- |
 | [0101-symmetric-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/TheVinaySagar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/TheVinaySagar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -61,6 +63,7 @@ this is readme. here i will make
 | ------- |
 | [0101-symmetric-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/TheVinaySagar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Trie
 |  |
