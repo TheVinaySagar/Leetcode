@@ -16,6 +16,7 @@ this is readme. here i will make
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/TheVinaySagar/Leetcode/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/TheVinaySagar/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TheVinaySagar/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/TheVinaySagar/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -38,6 +39,7 @@ this is readme. here i will make
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0952-word-subsets](https://github.com/TheVinaySagar/Leetcode/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1502-construct-k-palindrome-strings](https://github.com/TheVinaySagar/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 ## Tree
 |  |
 | ------- |
@@ -103,4 +105,12 @@ this is readme. here i will make
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/TheVinaySagar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Greedy
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/TheVinaySagar/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/TheVinaySagar/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
