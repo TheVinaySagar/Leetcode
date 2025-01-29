@@ -82,6 +82,7 @@ this is readme. here i will make
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/TheVinaySagar/Leetcode/tree/master/0684-redundant-connection) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/TheVinaySagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -96,6 +97,7 @@ this is readme. here i will make
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/TheVinaySagar/Leetcode/tree/master/0684-redundant-connection) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/TheVinaySagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -181,6 +183,7 @@ this is readme. here i will make
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/TheVinaySagar/Leetcode/tree/master/0684-redundant-connection) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TheVinaySagar/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/TheVinaySagar/Leetcode/tree/master/1558-course-schedule-iv) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/TheVinaySagar/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -206,6 +209,7 @@ this is readme. here i will make
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/TheVinaySagar/Leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/TheVinaySagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/TheVinaySagar/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Search Tree
