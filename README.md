@@ -9,6 +9,7 @@ this is readme. here i will make
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheVinaySagar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0407-trapping-rain-water-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/TheVinaySagar/Leetcode/tree/master/0952-word-subsets) |
+| [1036-rotting-oranges](https://github.com/TheVinaySagar/Leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/TheVinaySagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TheVinaySagar/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -100,6 +101,7 @@ this is readme. here i will make
 | [0684-redundant-connection](https://github.com/TheVinaySagar/Leetcode/tree/master/0684-redundant-connection) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/TheVinaySagar/Leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/TheVinaySagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TheVinaySagar/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/TheVinaySagar/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -198,6 +200,7 @@ this is readme. here i will make
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [1036-rotting-oranges](https://github.com/TheVinaySagar/Leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/TheVinaySagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TheVinaySagar/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/TheVinaySagar/Leetcode/tree/master/1876-map-of-highest-peak) |
