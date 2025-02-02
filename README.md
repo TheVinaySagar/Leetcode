@@ -84,6 +84,7 @@ this is readme. here i will make
 | [0199-binary-tree-right-side-view](https://github.com/TheVinaySagar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/TheVinaySagar/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/TheVinaySagar/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/TheVinaySagar/Leetcode/tree/master/0854-making-a-large-island) |
@@ -100,6 +101,7 @@ this is readme. here i will make
 | [0199-binary-tree-right-side-view](https://github.com/TheVinaySagar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0547-number-of-provinces](https://github.com/TheVinaySagar/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/TheVinaySagar/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/TheVinaySagar/Leetcode/tree/master/0854-making-a-large-island) |
@@ -190,6 +192,7 @@ this is readme. here i will make
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/TheVinaySagar/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/TheVinaySagar/Leetcode/tree/master/0684-redundant-connection) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TheVinaySagar/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/TheVinaySagar/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -219,6 +222,7 @@ this is readme. here i will make
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/TheVinaySagar/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/TheVinaySagar/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/TheVinaySagar/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/TheVinaySagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
