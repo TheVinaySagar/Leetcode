@@ -8,6 +8,7 @@ this is readme. here i will make
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheVinaySagar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0407-trapping-rain-water-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/TheVinaySagar/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/TheVinaySagar/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/TheVinaySagar/Leetcode/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/TheVinaySagar/Leetcode/tree/master/0952-word-subsets) |
@@ -115,6 +116,7 @@ this is readme. here i will make
 | [0199-binary-tree-right-side-view](https://github.com/TheVinaySagar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/TheVinaySagar/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TheVinaySagar/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/TheVinaySagar/Leetcode/tree/master/0684-redundant-connection) |
@@ -164,6 +166,7 @@ this is readme. here i will make
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheVinaySagar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/TheVinaySagar/Leetcode/tree/master/0542-01-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -229,6 +232,7 @@ this is readme. here i will make
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/TheVinaySagar/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/TheVinaySagar/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/TheVinaySagar/Leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/TheVinaySagar/Leetcode/tree/master/1036-rotting-oranges) |
