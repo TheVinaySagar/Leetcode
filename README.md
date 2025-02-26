@@ -20,6 +20,7 @@ this is readme. here i will make
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TheVinaySagar/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/TheVinaySagar/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/TheVinaySagar/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/TheVinaySagar/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TheVinaySagar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TheVinaySagar/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -202,6 +203,7 @@ this is readme. here i will make
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheVinaySagar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/TheVinaySagar/Leetcode/tree/master/0542-01-matrix) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/TheVinaySagar/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
 | ------- |
