@@ -49,6 +49,7 @@ this is readme. here i will make
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0952-word-subsets](https://github.com/TheVinaySagar/Leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1170-shortest-common-supersequence](https://github.com/TheVinaySagar/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/TheVinaySagar/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TheVinaySagar/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -206,6 +207,7 @@ this is readme. here i will make
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheVinaySagar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/TheVinaySagar/Leetcode/tree/master/0542-01-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/TheVinaySagar/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/TheVinaySagar/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/TheVinaySagar/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
