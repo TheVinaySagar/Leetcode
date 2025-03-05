@@ -333,6 +333,7 @@ this is readme. here i will make
 | [1477-product-of-the-last-k-numbers](https://github.com/TheVinaySagar/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/TheVinaySagar/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/TheVinaySagar/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/TheVinaySagar/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Simulation
 |  |
 | ------- |
