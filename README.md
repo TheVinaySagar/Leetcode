@@ -55,6 +55,7 @@ this is readme. here i will make
 | [0952-word-subsets](https://github.com/TheVinaySagar/Leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/TheVinaySagar/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/TheVinaySagar/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/TheVinaySagar/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TheVinaySagar/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -91,6 +92,7 @@ this is readme. here i will make
 | [0952-word-subsets](https://github.com/TheVinaySagar/Leetcode/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/TheVinaySagar/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/TheVinaySagar/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/TheVinaySagar/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/TheVinaySagar/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -379,6 +381,7 @@ this is readme. here i will make
 ## Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/TheVinaySagar/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/TheVinaySagar/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
