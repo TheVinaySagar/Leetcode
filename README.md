@@ -49,6 +49,7 @@ this is readme. here i will make
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/TheVinaySagar/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/TheVinaySagar/Leetcode/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/TheVinaySagar/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
 | ------- |
@@ -187,6 +188,7 @@ this is readme. here i will make
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/TheVinaySagar/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/TheVinaySagar/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Tree
 |  |
 | ------- |
