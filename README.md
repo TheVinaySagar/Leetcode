@@ -44,6 +44,7 @@ this is readme. here i will make
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/TheVinaySagar/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/TheVinaySagar/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/TheVinaySagar/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3001-apply-operations-to-maximize-score](https://github.com/TheVinaySagar/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/TheVinaySagar/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/TheVinaySagar/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -193,6 +194,7 @@ this is readme. here i will make
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/TheVinaySagar/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/TheVinaySagar/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3001-apply-operations-to-maximize-score](https://github.com/TheVinaySagar/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/TheVinaySagar/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Tree
 |  |
@@ -250,6 +252,7 @@ this is readme. here i will make
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/TheVinaySagar/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/TheVinaySagar/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2509-minimize-xor](https://github.com/TheVinaySagar/Leetcode/tree/master/2509-minimize-xor) |
+| [3001-apply-operations-to-maximize-score](https://github.com/TheVinaySagar/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Counting
 |  |
 | ------- |
@@ -264,6 +267,7 @@ this is readme. here i will make
 | [1002-maximum-width-ramp](https://github.com/TheVinaySagar/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/TheVinaySagar/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/TheVinaySagar/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3001-apply-operations-to-maximize-score](https://github.com/TheVinaySagar/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/TheVinaySagar/Leetcode/tree/master/3447-clear-digits) |
 ## Brainteaser
 |  |
@@ -365,6 +369,7 @@ this is readme. here i will make
 | [2448-count-number-of-bad-pairs](https://github.com/TheVinaySagar/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/TheVinaySagar/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/TheVinaySagar/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/TheVinaySagar/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/TheVinaySagar/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -394,10 +399,12 @@ this is readme. here i will make
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/TheVinaySagar/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [3001-apply-operations-to-maximize-score](https://github.com/TheVinaySagar/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/TheVinaySagar/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/TheVinaySagar/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
 |  |
 | ------- |
