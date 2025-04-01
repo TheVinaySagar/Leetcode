@@ -18,7 +18,20 @@ public:
     }
     long long mostPoints(vector<vector<int>>& questions) {
         int n = questions.size();
-        vector<ll> dp(n+1, -1);
-        return func(questions, 0, dp);
+        vector<ll> dp(n+1, 0);
+
+        dp[n-1] = questions[n-1][0];
+        for(int i =n-2; i>=0 ;i--)
+        {
+            ll take = 0;
+            ll val = questions[i][0];
+            ll pos = questions[i][1];
+            if(i+pos+1 < n) take = dp[i+pos+1];
+            dp[i] = max(dp[i+1], val + take);
+        }
+
+        return dp[0];
+
+        // return func(questions, 0, dp);
     }
 };
