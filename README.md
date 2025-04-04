@@ -98,6 +98,7 @@ this is readme. here i will make
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/TheVinaySagar/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/TheVinaySagar/Leetcode/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/TheVinaySagar/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TheVinaySagar/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/TheVinaySagar/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -127,6 +128,7 @@ this is readme. here i will make
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/TheVinaySagar/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/TheVinaySagar/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -151,6 +153,7 @@ this is readme. here i will make
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/TheVinaySagar/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/TheVinaySagar/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/TheVinaySagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/TheVinaySagar/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -180,6 +183,7 @@ this is readme. here i will make
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/TheVinaySagar/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/TheVinaySagar/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/TheVinaySagar/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/TheVinaySagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TheVinaySagar/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -215,6 +219,7 @@ this is readme. here i will make
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/TheVinaySagar/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Trie
 |  |
