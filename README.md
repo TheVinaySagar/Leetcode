@@ -57,6 +57,7 @@ this is readme. here i will make
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/TheVinaySagar/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/TheVinaySagar/Leetcode/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/TheVinaySagar/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/TheVinaySagar/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
@@ -116,6 +117,7 @@ this is readme. here i will make
 | [3227-find-missing-and-repeated-values](https://github.com/TheVinaySagar/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/TheVinaySagar/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/TheVinaySagar/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Tree
 |  |
 | ------- |
