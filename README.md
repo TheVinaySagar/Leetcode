@@ -12,6 +12,7 @@ this is readme. here i will make
 | [0407-trapping-rain-water-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/TheVinaySagar/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/TheVinaySagar/Leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/TheVinaySagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/TheVinaySagar/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/TheVinaySagar/Leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/TheVinaySagar/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -84,6 +85,7 @@ this is readme. here i will make
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/TheVinaySagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/TheVinaySagar/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TheVinaySagar/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/TheVinaySagar/Leetcode/tree/master/2145-grid-game) |
@@ -98,6 +100,7 @@ this is readme. here i will make
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0560-subarray-sum-equals-k](https://github.com/TheVinaySagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/TheVinaySagar/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/TheVinaySagar/Leetcode/tree/master/0952-word-subsets) |
