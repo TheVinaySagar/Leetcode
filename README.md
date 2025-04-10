@@ -8,6 +8,7 @@ this is readme. here i will make
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheVinaySagar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/TheVinaySagar/Leetcode/tree/master/0130-surrounded-regions) |
+| [0368-largest-divisible-subset](https://github.com/TheVinaySagar/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/TheVinaySagar/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/TheVinaySagar/Leetcode/tree/master/0733-flood-fill) |
@@ -199,6 +200,7 @@ this is readme. here i will make
 ## Sorting
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/TheVinaySagar/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/TheVinaySagar/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/TheVinaySagar/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -238,6 +240,7 @@ this is readme. here i will make
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheVinaySagar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0368-largest-divisible-subset](https://github.com/TheVinaySagar/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0542-01-matrix](https://github.com/TheVinaySagar/Leetcode/tree/master/0542-01-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/TheVinaySagar/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/TheVinaySagar/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -378,6 +381,7 @@ this is readme. here i will make
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/TheVinaySagar/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1477-product-of-the-last-k-numbers](https://github.com/TheVinaySagar/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/TheVinaySagar/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TheVinaySagar/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |

@@ -1,44 +1,22 @@
 class Solution {
 public:
-    vector<int> largestDivisibleSubset(vector<int>& arr) {
-        sort(arr.begin(), arr.end());
-        int n = arr.size();
-        vector<int> dp(n, 1);
-        vector<int> hash(n, 1);
-        int last_ind = 0;
-        int maxi = INT_MIN;
-        for(int i=0;i<n;i++)
-        {
-            hash[i] = i;
-            for(int j=0;j<i;j++)
-            {
-                if(arr[i]%arr[j]==0 && dp[i] < 1 + dp[j])
-                {
-                    dp[i] = 1+dp[j];
-                    hash[i] = j;
+    vector<int> largestDivisibleSubset(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+        vector<int> dp(nums.size(), 1), prev(nums.size(), -1);
+        int maxi = 0;
+        for (int i = 1; i < nums.size(); i++) {
+            for (int j = 0; j < i; j++) {
+                if (nums[i] % nums[j] == 0 && dp[i] < dp[j] + 1) {
+                    dp[i] = dp[j] + 1;
+                    prev[i] = j;
                 }
             }
-            if(dp[i] > maxi)
-            {
-                maxi = dp[i];
-                last_ind = i;
-            }
+            if (dp[i] > dp[maxi]) maxi = i;
         }
-        
-        
-        vector<int> temp;
-        temp.push_back(arr[last_ind]);
-        
-        while(hash[last_ind] != last_ind)
-        {
-            last_ind = hash[last_ind];
-            temp.push_back(arr[last_ind]);
+        vector<int> res;
+        for (int i = maxi; i >= 0; i = prev[i]) {
+            res.push_back(nums[i]);
         }
-        
-        
-        reverse(temp.begin(), temp.end());
-        return temp;
-        // for(int dp:temp)
-        //     cout<<dp<<" ";
+        return res;
     }
 };
