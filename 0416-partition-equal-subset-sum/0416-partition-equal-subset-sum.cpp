@@ -1,28 +1,34 @@
 class Solution {
 public:
+
+    bool func(int target, vector<int> &nums, int i, int n, vector<vector<int>> &dp)
+    {
+        if(i > n-1)
+        {
+            if(target == 0)
+                return true;
+            else
+                return false;
+        }
+
+        if(dp[i][target] != -1) return dp[i][target];
+        //pick
+        int pick = false; 
+        if(nums[i] <= target)
+            pick = func(target - nums[i], nums, i+1,n, dp);
+        //notpick
+        int notpick = func(target, nums, i+1,n,dp);
+        return dp[i][target] = notpick || pick;
+    }
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
-        
-        int sum = accumulate(nums.begin(),nums.end(),0);
-        if(sum&1) return 0;
-        int tar = sum/2;
-        vector<int> prev(tar+1,false),cur(tar+1,false);
-        prev[0] = cur[0] = true;
-        // if()
-        for(int ind = 1; ind<n;ind++ )
-        {
-            for(int target = 1;target<=tar;target++)
-            {
-                int not_take = prev[target];
-                int take = false;
-                if(target >= nums[ind])
-                    take = prev[target - nums[ind]];
-                
-                cur[target] = take || not_take;
-            }
-            prev = cur;
-        }
-        
-        return prev[tar];
+        int sum = accumulate(nums.begin(), nums.end(), 0);
+
+        if(sum % 2 == 1) return false;
+        int half = sum/2;
+
+
+        vector<vector<int>> dp(n+1, vector<int> (half+1, -1));
+        return func(half, nums, 0, n, dp);
     }
 };
