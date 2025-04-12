@@ -26,6 +26,7 @@ this is readme. here i will make
 | [1477-product-of-the-last-k-numbers](https://github.com/TheVinaySagar/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TheVinaySagar/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1753-path-with-minimum-effort](https://github.com/TheVinaySagar/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/TheVinaySagar/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/TheVinaySagar/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/TheVinaySagar/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -168,6 +169,7 @@ this is readme. here i will make
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/TheVinaySagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/TheVinaySagar/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/TheVinaySagar/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/TheVinaySagar/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/TheVinaySagar/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -200,6 +202,7 @@ this is readme. here i will make
 | [1396-count-servers-that-communicate](https://github.com/TheVinaySagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TheVinaySagar/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/TheVinaySagar/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/TheVinaySagar/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/TheVinaySagar/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/TheVinaySagar/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -263,6 +266,7 @@ this is readme. here i will make
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/TheVinaySagar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1753-path-with-minimum-effort](https://github.com/TheVinaySagar/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -332,6 +336,7 @@ this is readme. here i will make
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TheVinaySagar/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1753-path-with-minimum-effort](https://github.com/TheVinaySagar/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2434-design-a-number-container-system](https://github.com/TheVinaySagar/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/TheVinaySagar/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/TheVinaySagar/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -351,6 +356,7 @@ this is readme. here i will make
 | [1396-count-servers-that-communicate](https://github.com/TheVinaySagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TheVinaySagar/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TheVinaySagar/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1753-path-with-minimum-effort](https://github.com/TheVinaySagar/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/TheVinaySagar/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/TheVinaySagar/Leetcode/tree/master/2145-grid-game) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/TheVinaySagar/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -371,6 +377,7 @@ this is readme. here i will make
 | [0854-making-a-large-island](https://github.com/TheVinaySagar/Leetcode/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/TheVinaySagar/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/TheVinaySagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/TheVinaySagar/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/TheVinaySagar/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/TheVinaySagar/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/TheVinaySagar/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
