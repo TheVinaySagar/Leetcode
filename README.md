@@ -18,6 +18,7 @@ this is readme. here i will make
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/TheVinaySagar/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/TheVinaySagar/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/TheVinaySagar/Leetcode/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/TheVinaySagar/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/TheVinaySagar/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/TheVinaySagar/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/TheVinaySagar/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -94,6 +95,7 @@ this is readme. here i will make
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/TheVinaySagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/TheVinaySagar/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/TheVinaySagar/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TheVinaySagar/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/TheVinaySagar/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -117,6 +119,7 @@ this is readme. here i will make
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/TheVinaySagar/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/TheVinaySagar/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/TheVinaySagar/Leetcode/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/TheVinaySagar/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/TheVinaySagar/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TheVinaySagar/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -467,6 +470,7 @@ this is readme. here i will make
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheVinaySagar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/TheVinaySagar/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/TheVinaySagar/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/TheVinaySagar/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/TheVinaySagar/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TheVinaySagar/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TheVinaySagar/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
