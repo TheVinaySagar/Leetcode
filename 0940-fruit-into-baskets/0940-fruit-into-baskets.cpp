@@ -5,25 +5,20 @@ public:
 
         map<int,int> st;
 
-        int l = -1;
+        int l = 0;
         int maxi = -1;
         for(int r = 0; r<n; r++)
         {
-            st[fruits[r]]=r;
+            st[fruits[r]]++;
             while(st.size() > 2)
             {
-                int a=fruits[r];
-                int b=fruits[r-1];
-                int c=-1;
-                for(auto it:st){
-                    if(it.first!=a&&it.first!=b){
-                        c=it.first;
-                    }
-                }
-                l=st[c];
-                st.erase(c);
+                st[fruits[l]]--;
+                if(st[fruits[l]] == 0)
+                    st.erase(fruits[l]);
+                
+                l++;
             }
-            maxi = max(maxi, r - l);
+            maxi = max(maxi, r - l + 1);
         }
 
         return maxi;
