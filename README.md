@@ -42,6 +42,7 @@ this is readme. here i will make
 | [2145-grid-game](https://github.com/TheVinaySagar/Leetcode/tree/master/2145-grid-game) |
 | [2262-solving-questions-with-brainpower](https://github.com/TheVinaySagar/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/TheVinaySagar/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/TheVinaySagar/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/TheVinaySagar/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2448-count-number-of-bad-pairs](https://github.com/TheVinaySagar/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -282,6 +283,7 @@ this is readme. here i will make
 | [0222-count-complete-tree-nodes](https://github.com/TheVinaySagar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1046-max-consecutive-ones-iii](https://github.com/TheVinaySagar/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/TheVinaySagar/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2280-count-good-triplets-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -324,6 +326,7 @@ this is readme. here i will make
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [2280-count-good-triplets-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Design
 |  |
 | ------- |
@@ -412,6 +415,7 @@ this is readme. here i will make
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/TheVinaySagar/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Math
 |  |
@@ -488,4 +492,16 @@ this is readme. here i will make
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TheVinaySagar/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/TheVinaySagar/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/TheVinaySagar/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
