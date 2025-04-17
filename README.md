@@ -43,6 +43,7 @@ this is readme. here i will make
 | [2145-grid-game](https://github.com/TheVinaySagar/Leetcode/tree/master/2145-grid-game) |
 | [2262-solving-questions-with-brainpower](https://github.com/TheVinaySagar/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/TheVinaySagar/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/TheVinaySagar/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/TheVinaySagar/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
