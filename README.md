@@ -284,6 +284,7 @@ this is readme. here i will make
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TheVinaySagar/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/TheVinaySagar/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/TheVinaySagar/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/TheVinaySagar/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/TheVinaySagar/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Binary Search
 |  |
@@ -438,6 +439,7 @@ this is readme. here i will make
 | [1477-product-of-the-last-k-numbers](https://github.com/TheVinaySagar/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/TheVinaySagar/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TheVinaySagar/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/TheVinaySagar/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/TheVinaySagar/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/TheVinaySagar/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/TheVinaySagar/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -480,6 +482,7 @@ this is readme. here i will make
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/TheVinaySagar/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/TheVinaySagar/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/TheVinaySagar/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
@@ -500,6 +503,7 @@ this is readme. here i will make
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TheVinaySagar/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/TheVinaySagar/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/TheVinaySagar/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
