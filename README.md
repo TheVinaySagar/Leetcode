@@ -5,6 +5,7 @@ this is readme. here i will make
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/TheVinaySagar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheVinaySagar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/TheVinaySagar/Leetcode/tree/master/0130-surrounded-regions) |
@@ -280,6 +281,7 @@ this is readme. here i will make
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/TheVinaySagar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheVinaySagar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/TheVinaySagar/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/TheVinaySagar/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -332,6 +334,7 @@ this is readme. here i will make
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/TheVinaySagar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/TheVinaySagar/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/TheVinaySagar/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/TheVinaySagar/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -382,6 +385,7 @@ this is readme. here i will make
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/TheVinaySagar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/TheVinaySagar/Leetcode/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/TheVinaySagar/Leetcode/tree/master/0542-01-matrix) |
@@ -484,6 +488,7 @@ this is readme. here i will make
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/TheVinaySagar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/TheVinaySagar/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [3001-apply-operations-to-maximize-score](https://github.com/TheVinaySagar/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
