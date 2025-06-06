@@ -78,6 +78,7 @@ this is readme. here i will make
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheVinaySagar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/TheVinaySagar/Leetcode/tree/master/0044-wildcard-matching) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/TheVinaySagar/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0952-word-subsets](https://github.com/TheVinaySagar/Leetcode/tree/master/0952-word-subsets) |
@@ -281,6 +282,7 @@ this is readme. here i will make
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/TheVinaySagar/Leetcode/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/TheVinaySagar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheVinaySagar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/TheVinaySagar/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -314,6 +316,7 @@ this is readme. here i will make
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/TheVinaySagar/Leetcode/tree/master/0044-wildcard-matching) |
 | [0797-rabbits-in-forest](https://github.com/TheVinaySagar/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/TheVinaySagar/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/TheVinaySagar/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -537,4 +540,8 @@ this is readme. here i will make
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/TheVinaySagar/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
