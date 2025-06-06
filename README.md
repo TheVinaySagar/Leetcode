@@ -5,6 +5,7 @@ this is readme. here i will make
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TheVinaySagar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0085-maximal-rectangle](https://github.com/TheVinaySagar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheVinaySagar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -319,6 +320,7 @@ this is readme. here i will make
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TheVinaySagar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/TheVinaySagar/Leetcode/tree/master/0044-wildcard-matching) |
 | [0797-rabbits-in-forest](https://github.com/TheVinaySagar/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/TheVinaySagar/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -486,6 +488,7 @@ this is readme. here i will make
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TheVinaySagar/Leetcode/tree/master/0011-container-with-most-water) |
 | [1002-maximum-width-ramp](https://github.com/TheVinaySagar/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/TheVinaySagar/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/2551-apply-operations-to-an-array) |
