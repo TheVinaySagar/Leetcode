@@ -9,6 +9,7 @@ this is readme. here i will make
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheVinaySagar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/TheVinaySagar/Leetcode/tree/master/0130-surrounded-regions) |
+| [0217-contains-duplicate](https://github.com/TheVinaySagar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/TheVinaySagar/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/TheVinaySagar/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -124,6 +125,7 @@ this is readme. here i will make
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheVinaySagar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0217-contains-duplicate](https://github.com/TheVinaySagar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/TheVinaySagar/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/TheVinaySagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/TheVinaySagar/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -241,6 +243,7 @@ this is readme. here i will make
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/TheVinaySagar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/TheVinaySagar/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/TheVinaySagar/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
