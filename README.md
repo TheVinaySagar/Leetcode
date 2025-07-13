@@ -169,6 +169,7 @@ this is readme. here i will make
 | [0662-maximum-width-of-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0832-binary-tree-pruning](https://github.com/TheVinaySagar/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -193,6 +194,7 @@ this is readme. here i will make
 | [0733-flood-fill](https://github.com/TheVinaySagar/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/TheVinaySagar/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/TheVinaySagar/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0832-binary-tree-pruning](https://github.com/TheVinaySagar/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0854-making-a-large-island](https://github.com/TheVinaySagar/Leetcode/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -270,6 +272,7 @@ this is readme. here i will make
 | [0662-maximum-width-of-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0832-binary-tree-pruning](https://github.com/TheVinaySagar/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
