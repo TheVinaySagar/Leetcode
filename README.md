@@ -175,6 +175,7 @@ this is readme. here i will make
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/TheVinaySagar/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/TheVinaySagar/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/TheVinaySagar/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
@@ -203,6 +204,7 @@ this is readme. here i will make
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/TheVinaySagar/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/TheVinaySagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/TheVinaySagar/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1558-course-schedule-iv](https://github.com/TheVinaySagar/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/TheVinaySagar/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -278,6 +280,7 @@ this is readme. here i will make
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/TheVinaySagar/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/TheVinaySagar/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Trie
 |  |
 | ------- |
