@@ -12,46 +12,37 @@ class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         int n = lists.size();
-        if(n == 0) return nullptr;
-        if(n == 1) return lists[0];
 
-        ListNode *l1Dum = lists[0];
-        ListNode *l1 = l1Dum;
-        
-        for(int i=1;i<n;i++)
-        {
-            ListNode *temp = new ListNode(-1);
-            ListNode *dummy = temp;
-            ListNode *l2 = lists[i];
-            
-            while(l1 != nullptr && l2 != nullptr)
-            {
-                if(l1->val < l2->val)
-                {
-                    dummy->next = l1;
-                    l1 = l1->next;
-                }
-                else
-                {
-                    dummy->next = l2;
-                    l2 = l2->next;
-                }
-                dummy = dummy->next;
-            }
+        priority_queue< pair<int, ListNode*>, vector<pair<int, ListNode*>>,
+                       greater<pair<int, ListNode*>> >
+            pq;
 
-            if(l1 != nullptr)
-            {
-                dummy->next = l1;
-            }
-            if(l2 != nullptr)
-            {
-                dummy->next = l2;
-            }
 
-            l1Dum = temp->next;
-            l1 = l1Dum;
+        // O(nlog(k))
+        for (int i = 0; i < n; i++) {
+            if (lists[i] != nullptr)
+                pq.push({lists[i]->val, lists[i]});
         }
 
-        return l1Dum;
+        ListNode* dummy = new ListNode(-1);
+        ListNode* temp = dummy;
+
+        // O(n*k)(number of node inside the prio que) x log(k)(inside push, pop, top operation)
+        while (!pq.empty()) {
+            ListNode* node = pq.top().second;
+            pq.pop();
+
+            dummy->next = node;
+
+            if (node->next != nullptr)
+                pq.push({node->next->val, node->next});
+
+            dummy = dummy->next;
+        }
+
+        return temp->next;
+
+        // So the Overall time complexity is O(n*k)*O(log(k)) + k*log(k) ~ O(n*k*log(k))
+        // Space Complexity is O(k)
     }
 };
