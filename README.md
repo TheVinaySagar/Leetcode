@@ -568,10 +568,12 @@ this is readme. here i will make
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TheVinaySagar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/TheVinaySagar/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/TheVinaySagar/Leetcode/tree/master/0044-wildcard-matching) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TheVinaySagar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/TheVinaySagar/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/TheVinaySagar/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
