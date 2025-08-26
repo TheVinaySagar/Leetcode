@@ -82,6 +82,7 @@ this is readme. here i will make
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheVinaySagar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/TheVinaySagar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/TheVinaySagar/Leetcode/tree/master/0044-wildcard-matching) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/TheVinaySagar/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -358,6 +359,7 @@ this is readme. here i will make
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TheVinaySagar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/TheVinaySagar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/TheVinaySagar/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/TheVinaySagar/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
