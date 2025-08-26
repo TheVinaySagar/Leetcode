@@ -333,6 +333,7 @@ this is readme. here i will make
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/TheVinaySagar/Leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/TheVinaySagar/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/TheVinaySagar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/TheVinaySagar/Leetcode/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TheVinaySagar/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -382,6 +383,7 @@ this is readme. here i will make
 | [0023-merge-k-sorted-lists](https://github.com/TheVinaySagar/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/TheVinaySagar/Leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/TheVinaySagar/Leetcode/tree/master/0191-number-of-1-bits) |
 | [2280-count-good-triplets-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Design
 |  |
