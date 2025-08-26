@@ -328,6 +328,7 @@ this is readme. here i will make
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/TheVinaySagar/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/TheVinaySagar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TheVinaySagar/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2509-minimize-xor](https://github.com/TheVinaySagar/Leetcode/tree/master/2509-minimize-xor) |
@@ -375,6 +376,7 @@ this is readme. here i will make
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TheVinaySagar/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0190-reverse-bits](https://github.com/TheVinaySagar/Leetcode/tree/master/0190-reverse-bits) |
 | [2280-count-good-triplets-in-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Design
 |  |
