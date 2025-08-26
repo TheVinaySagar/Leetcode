@@ -13,6 +13,7 @@ this is readme. here i will make
 | [0162-find-peak-element](https://github.com/TheVinaySagar/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/TheVinaySagar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TheVinaySagar/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/TheVinaySagar/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/TheVinaySagar/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/TheVinaySagar/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/TheVinaySagar/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -131,6 +132,7 @@ this is readme. here i will make
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheVinaySagar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TheVinaySagar/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/TheVinaySagar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/TheVinaySagar/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/TheVinaySagar/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/TheVinaySagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/TheVinaySagar/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -257,6 +259,7 @@ this is readme. here i will make
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/TheVinaySagar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/TheVinaySagar/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/TheVinaySagar/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheVinaySagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/TheVinaySagar/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -320,6 +323,7 @@ this is readme. here i will make
 | ------- |
 | [0162-find-peak-element](https://github.com/TheVinaySagar/Leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/TheVinaySagar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/TheVinaySagar/Leetcode/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/TheVinaySagar/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/TheVinaySagar/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/TheVinaySagar/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -330,6 +334,7 @@ this is readme. here i will make
 | ------- |
 | [0190-reverse-bits](https://github.com/TheVinaySagar/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/TheVinaySagar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/TheVinaySagar/Leetcode/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TheVinaySagar/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2509-minimize-xor](https://github.com/TheVinaySagar/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/TheVinaySagar/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -474,6 +479,7 @@ this is readme. here i will make
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/TheVinaySagar/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/TheVinaySagar/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/TheVinaySagar/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TheVinaySagar/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
