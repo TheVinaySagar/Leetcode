@@ -368,6 +368,7 @@ this is readme. here i will make
 | ------- |
 | [0020-valid-parentheses](https://github.com/TheVinaySagar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/TheVinaySagar/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/TheVinaySagar/Leetcode/tree/master/0143-reorder-list) |
 | [1002-maximum-width-ramp](https://github.com/TheVinaySagar/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/TheVinaySagar/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/TheVinaySagar/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -520,6 +521,7 @@ this is readme. here i will make
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TheVinaySagar/Leetcode/tree/master/0011-container-with-most-water) |
+| [0143-reorder-list](https://github.com/TheVinaySagar/Leetcode/tree/master/0143-reorder-list) |
 | [1002-maximum-width-ramp](https://github.com/TheVinaySagar/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/TheVinaySagar/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/TheVinaySagar/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -584,10 +586,12 @@ this is readme. here i will make
 | [0021-merge-two-sorted-lists](https://github.com/TheVinaySagar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/TheVinaySagar/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/TheVinaySagar/Leetcode/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/TheVinaySagar/Leetcode/tree/master/0143-reorder-list) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TheVinaySagar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/TheVinaySagar/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/TheVinaySagar/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/TheVinaySagar/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
